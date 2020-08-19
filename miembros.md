@@ -2,7 +2,7 @@
 
 * Black panther
 * Black Widow
-* Capitán Marvel
+* Capitana Marvel
 * Falcon
 * Hank Pym
 * Hawkeye
@@ -16,3 +16,4 @@
 * Vision
 * Wasp
 * Antman
+* Capitán America (renovado y sano)
